@@ -1,0 +1,1 @@
+# Lambi süütamine ja kustutamine
