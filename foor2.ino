@@ -2,7 +2,8 @@
    BasicHTTPSClient.ino
 
     Created on: 20.08.2018
-
+ 24.11
+ 
 */
 
 #include <Arduino.h>
